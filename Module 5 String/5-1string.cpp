@@ -5,5 +5,6 @@ int main(){
     string s = "name";
     s = "gurar dim";
     cout << s;
+
     return 0;
 }
